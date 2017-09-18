@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AP app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dice">dice</string>
+    <string name="title_activity_rot13">Rot13</string>
+    <string name="title_activity_passwordgenerator">passwordgenerator</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_pwd">pwd</string>
+    <string name="text">Copy the above given text and paste it at the right spot.\nYou can also edit this generated password if you want.</string>
+    <string name="abo">App is developed by \nPranay Likhitkar \nand\n Anuj Kumar.</string>
+</resources>
